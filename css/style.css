@@ -1,0 +1,41 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: black;
+	font-weight: 300;
+    background-color: #BCBBBB;
+}
+
+.text-muted{
+	color: #BCBBBB;
+}
+.text-thin{
+	font-weight:100;
+}
+
+.title-super{
+	font-size:40px;
+}
+
+
+#map {
+      /*width: 70%;*/
+      height: 700px;
+}
+#search-nav{
+    
+   height: auto;
+   
+    background-color: #E8E8E8;
+}
+#input{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#lists {
+    margin-top: 5%;
+    
+} 
+#rate{
+    color: red;
+    font-size: 25px;
+}
